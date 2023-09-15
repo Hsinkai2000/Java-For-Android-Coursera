@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.birthday.logic.UnitTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-15T09:31:29" hostname="Ngs-MacBook-Pro.local" time="19.109">
+  <properties/>
+  <testcase name="testResultRange" classname="mooc.vandy.java4android.birthday.logic.UnitTests" time="0.016"/>
+  <testcase name="testCalculateThreshold" classname="mooc.vandy.java4android.birthday.logic.UnitTests" time="0.169"/>
+  <testcase name="testEfficiency" classname="mooc.vandy.java4android.birthday.logic.UnitTests" time="18.924"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
